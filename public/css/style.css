@@ -1,0 +1,56 @@
+body{
+ font-family: 'Raleway', sans-serif;
+ background-color: beige;
+ height:100%;
+}
+.navbar-nav li a,
+.navbar-brand{
+    color:#fff !important;
+    font-size:18px;
+}
+.dropdown-menu,
+.thead-danger{
+   background: #DC3545;
+}
+.thead-danger{
+    color:white;
+}
+.dropdown-item:hover{
+    background: #DC3545;
+}
+img{
+    border-radius: 5px;
+}
+footer p{
+    margin: 180px 0 10px 0;
+}
+.dispo{
+    background-color: beige;
+    border: 2px solid #DC3545;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+    color: #DC3545;
+}
+.reserv{
+    background-color: beige;
+    border: 2px solid rgb(53, 64, 220);
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+    color: #000;
+}
+.free{
+    background-color: beige;
+    border: 2px solid rgb(64, 61, 226,0.8);
+    width: 30%;
+    text-align: center;
+    padding: 10px;
+    color: #DC3545;
+}
+.btn-general{
+    border:2px solid white;
+}
+a:hover{
+    text-decoration:none;
+}
